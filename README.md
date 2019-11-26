@@ -1,12 +1,15 @@
 # ROSFIRE
 
 ![C++11](https://img.shields.io/badge/language-C++11-blue.svg)
-![Python >= 3.7](https://img.shields.io/badge/language-python%20%3E%3D%203.7-blue.svg)
+![Python 2.7](https://img.shields.io/badge/language-python%202.7-blue.svg)
 
 ## Remote WSL
 ```
 workspace$ code .
 ```
+
+## Firebase
+Python Admin SDK: [LINK](https://firebase.google.com/docs/database/admin/start)
 
 ## Conventions / Style Guides
 | Language | Following Convention |
