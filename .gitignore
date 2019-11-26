@@ -1,4 +1,7 @@
 build/
 devel/
 .catkin_workspace
+
+__pycache__/
 *firebase-adminsdk*.json
+config.json
