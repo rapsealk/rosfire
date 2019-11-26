@@ -1,7 +1,7 @@
 # ROSFIRE
 
 ![C++11](https://img.shields.io/badge/language-C++11-blue.svg)
-![Python 2.7](https://img.shields.io/badge/language-python%202.7-blue.svg)
+![Python 3.7](https://img.shields.io/badge/language-python%203.7-blue.svg)
 
 ## Remote WSL
 ```
